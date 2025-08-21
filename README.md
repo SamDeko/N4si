@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20I'm%20Sam%20👋&fontSize=50&fontAlignY=35&animation=fadeIn" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4044&color=F74F11&background=F06A0000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+I'm+Sam)](https://git.io/typing-svg)
 
 ---
 
@@ -28,18 +26,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
